@@ -1,4 +1,7 @@
-### Hi, I'm David Ordóñez
+## Hola 👋, soy David Ordóñez
+
+### Sobre Mi
+Soy un apasionado de la tecnología y me gusta aprender cosas nuevas. Me encuentro constantemente buscando información sobre las cosas que me apasionan.
 
 <!--
 **Haldamird212/haldamird212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
